@@ -1,0 +1,22 @@
+{
+  "name": "Kama",
+  "version": "0.0.1",
+  "description": "Kultural Asset Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlalaux/kama.git"
+  },
+  "author": "TLalaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlalaux/kama/issues"
+  },
+  "homepage": "https://github.com/tlalaux/kama#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
