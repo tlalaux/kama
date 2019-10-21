@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tlalaux/kama/issues"
   },
-  "homepage": "https://github.com/tlalaux/kama#readme"
+  "homepage": "https://github.com/tlalaux/kama#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
