@@ -10,7 +10,5 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: ls -la
-      - run: pwd
       - run: npm install
-      - run: npm prestart
+      - run: npm run prestart
