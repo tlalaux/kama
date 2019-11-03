@@ -1,4 +1,4 @@
-name: Node.js Build with TypeScript
+name: Typescript Build
 
 on: push
 
