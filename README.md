@@ -1,3 +1,5 @@
+![Typescript Build Badge](https://github.com/tlalaux/kama/workflows/Typescript%20Build/badge.svg)
+
 ## ~~C~~Kultural Asset Manager (Kama)
 
 Kama is an application that will allow you to centralize the list of all your cultural assets: video, books, music and so on.
